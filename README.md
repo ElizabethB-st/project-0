@@ -5,6 +5,7 @@ for CIS 322.
 
 Please read this **thoroughly** before starting.
 
+
 ## Setting up Git
 
 ### Windows Users
